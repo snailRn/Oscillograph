@@ -1,2 +1,4 @@
 # Oscillograph
-# oscillogram viewer
+oscillogram viewer
+
+uses matplotlib and tkinter
