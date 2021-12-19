@@ -1,1 +1,2 @@
 # Oscillograph
+# oscillogram viewer
